@@ -4,7 +4,7 @@
 
 Docker images, code, buildspecs, and guidance provided as proof of concept only and for educational purposes only.
 
-## Backgorund
+## Background
 
 Today, there is an explosion of generative AI capabilities across various platforms. Recently, an [open source release of a LLaMa compatible model](https://github.com/openlm-research/open_llama) was trained on the open RedPyjama Dataset, which now opens the possibilities for more freedom to use these types of generative models in various applications. 
 
